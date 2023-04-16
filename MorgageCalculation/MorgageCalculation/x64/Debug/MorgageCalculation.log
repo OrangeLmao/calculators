@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Orange\Desktop\CS2A\MorgageCalculation\MorgageCalculation\main.cpp(50,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Orange\Desktop\CS2A\MorgageCalculation\MorgageCalculation\main.cpp(51,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  MorgageCalculation.vcxproj -> C:\Users\Orange\Desktop\CS2A\MorgageCalculation\x64\Debug\MorgageCalculation.exe
